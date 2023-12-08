@@ -1,0 +1,14 @@
+
+Flask
+xgboost
+category-encoders
+catboost
+seaborn
+imbalanced_learn
+matplotlib
+numpy
+pandas
+scikit_learn
+seaborn
+#-e .
+datetime
